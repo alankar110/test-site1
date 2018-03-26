@@ -1,0 +1,29 @@
+        .headings {
+            background-color:Gray;
+            font-style:Georgia;
+            color:white;
+        }
+        .main-heading
+        {
+            text-align:center;
+            background-color:Tomato;
+            border:2px solid Tomato;
+        }
+        .images {
+             display: block;
+             margin-left: auto;
+             margin-right: auto;
+             width: 30%;
+        }
+        .video
+        {
+            float:middle;
+
+        }
+        .col{
+           column-count: 3;
+           column-gap: 40px;
+           column-rule-style: solid;
+            column-rule-color: blue;
+             }
+        
