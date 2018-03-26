@@ -1,13 +1,13 @@
         .headings {
             background-color:Gray;
             font-style:Georgia;
-            color:white;
+            color:White;
         }
         .main-heading
         {
             text-align:center;
-            background-color:Tomato;
-            border:2px solid Tomato;
+            background-color:Gray;
+            border:2px solid White;
         }
         .images {
              display: block;
@@ -24,6 +24,20 @@
            column-count: 3;
            column-gap: 40px;
            column-rule-style: solid;
-            column-rule-color: blue;
+            column-rule-color: Gray;
+            text-align: left;
+             }
+        .List 
+             {
+          background: White;
+          padding: 20px;
              }
         
+        .Content
+        {
+        background: White;
+          padding: 20px;
+      }
+      p{
+        text-align: center
+    }
