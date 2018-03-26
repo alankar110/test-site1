@@ -1,13 +1,13 @@
         .headings {
             background-color:Gray;
-            font-style:Georgia;
+            font: bold 25px "Century Schoolbook", Georgia, Times, serif;
             color:White;
         }
         .main-heading
         {
             text-align:center;
             background-color:Gray;
-            border:2px solid White;
+            font: bold 34px "Century Schoolbook", Georgia, Times, serif;
         }
         .images {
              display: block;
@@ -26,17 +26,20 @@
            column-rule-style: solid;
             column-rule-color: Gray;
             text-align: left;
+            font-size:17px;
              }
         .List 
              {
           background: White;
           padding: 20px;
+           font-size: 17px;
              }
         
         .Content
         {
         background: White;
-          padding: 20px;
+          padding: 22px;
+          font-size: 17px;
       }
       p{
         text-align: center
